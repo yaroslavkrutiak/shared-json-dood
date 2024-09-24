@@ -1,13 +1,16 @@
 {
   "name": "shared-json-dood",
   "version": "1.0.0",
-  "main": "index.ts",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "exports": {
-    ".": "./index.ts"
+    ".": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslavkrutiak/shared-json-dood.git"
   },
   "keywords": [],
   "author": "",
